@@ -1,0 +1,6 @@
+# Dependencies
+node_modules/
+
+# Data
+url_qr.png
+url.txt
